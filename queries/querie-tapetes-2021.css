@@ -11,7 +11,7 @@
     .encabezado{
         /* border: 1px solid blue; */
         justify-content: center;
-        margin-bottom: 30px;
+        /* margin-bottom: 30px; */
         
     }
     .encabezado h2{
@@ -25,7 +25,8 @@
         flex-direction: column;
     }
     .categoria{
-        margin-bottom: 40px;
+        /* border: 1px solid red; */
+        margin-bottom: 0px;
     }
 
     .tapete h2{
